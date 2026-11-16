@@ -1,0 +1,20 @@
+# Dependencias
+node_modules/
+
+# Salida de la compilación
+dist/
+
+# Cobertura
+coverage/
+
+# Variables de entorno
+.env
+.env.local
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.log
